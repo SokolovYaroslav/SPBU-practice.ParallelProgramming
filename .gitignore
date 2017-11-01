@@ -1,0 +1,7 @@
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# Binary files:
+HWparal/bin/
+HWparal/obj/
