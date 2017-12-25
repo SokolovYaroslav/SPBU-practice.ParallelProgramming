@@ -1,0 +1,6 @@
+/home/yas/RiderProjects/Snapshot/Snapshot/bin/Debug/Snapshot.exe
+/home/yas/RiderProjects/Snapshot/Snapshot/bin/Debug/Snapshot.pdb
+/home/yas/RiderProjects/Snapshot/Snapshot/obj/Debug/Snapshot.csprojResolveAssemblyReference.cache
+/home/yas/RiderProjects/Snapshot/Snapshot/obj/Debug/Snapshot.csproj.CoreCompileInputs.cache
+/home/yas/RiderProjects/Snapshot/Snapshot/obj/Debug/Snapshot.exe
+/home/yas/RiderProjects/Snapshot/Snapshot/obj/Debug/Snapshot.pdb
