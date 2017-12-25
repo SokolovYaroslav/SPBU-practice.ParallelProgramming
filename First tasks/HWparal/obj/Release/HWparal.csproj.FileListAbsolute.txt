@@ -1,0 +1,6 @@
+/home/yas/RiderProjects/HWparal/HWparal/bin/Release/HWparal.exe
+/home/yas/RiderProjects/HWparal/HWparal/bin/Release/HWparal.pdb
+/home/yas/RiderProjects/HWparal/HWparal/obj/Release/HWparal.csprojResolveAssemblyReference.cache
+/home/yas/RiderProjects/HWparal/HWparal/obj/Release/HWparal.csproj.CoreCompileInputs.cache
+/home/yas/RiderProjects/HWparal/HWparal/obj/Release/HWparal.exe
+/home/yas/RiderProjects/HWparal/HWparal/obj/Release/HWparal.pdb
