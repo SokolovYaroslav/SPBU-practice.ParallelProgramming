@@ -21,7 +21,7 @@ namespace HTMLParser
             new Regex(@"http(s)?://([\w-]+\.)+[\w-]+(/[\w- ./?%&=]*)?", RegexOptions.Compiled);
 
         public static async void GetLen(string link) {
-            GlobalUrls.TryAdd(link, 42);
+            GlobalUrls.TryAdd(link, 42); //key value interface
             await ParseAsync(link, 0);
             Console.WriteLine($"{GlobalUrls.Count} sites was processed");
         }
@@ -81,7 +81,7 @@ namespace HTMLParser
 
             var urls = new HashSet<string>();
             foreach (Match match in matches) {
-                if (GlobalUrls.TryAdd(match.Value, 42)) {
+                if (GlobalUrls.TryAdd(match.Value, 42)) { //key value interface
                     urls.Add(match.Value);                    
                 }
             }

@@ -36,7 +36,7 @@ namespace Snapshot
         }
 
         public int[] Scan(int id) {
-            var moved = new int[RegistersAmount];
+            var moved = new bool[RegistersAmount];
 
             while (true) {
                 for (var j = 0; j < RegistersAmount; j++) {
@@ -74,7 +74,7 @@ namespace Snapshot
                 for (var j = 0; j < RegistersAmount; j++) {
                     if (a[j].P[id] == _q[id, j] && b[j].P[id] == _q[id, j] 
                                     && a[j].Toggle == b[j].Toggle) continue;
-                    if (moved[j] == 1) {
+                    if (moved[j]) {
                         operationNumber = Interlocked.Increment(ref _operationCounter);
                         
                         var values = b[j].Snapshot;
@@ -88,7 +88,7 @@ namespace Snapshot
                         
                         return values;
                     }
-                    moved[j]++;
+                    moved[j] = true;
                 }
             }
         }
