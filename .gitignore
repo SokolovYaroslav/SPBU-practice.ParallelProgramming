@@ -3,5 +3,5 @@
 **/.idea/**/tasks.xml
 
 # Binary files:
-**/**/bin/
-**/**/obj/
+**/bin/
+**/obj/
