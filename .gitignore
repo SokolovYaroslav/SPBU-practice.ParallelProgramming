@@ -3,5 +3,5 @@
 .idea/**/tasks.xml
 
 # Binary files:
-HWparal/bin/
-HWparal/obj/
+HWparal/**/bin/
+HWparal/**/obj/

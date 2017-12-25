@@ -15,10 +15,10 @@ namespace Snapshot
         
         private struct Register
         {
-            public int Value;
-            public int[] Snapshot;
-            public bool Toggle;
-            public bool[] P;
+            public int Value { get; set; }
+            public int[] Snapshot { get; set; }
+            public bool Toggle { get; set; }
+            public bool[] P { get; set; }
         }
 
         public SingleWriterRegisters(int registersAmount, Logger logger) {
