@@ -1,6 +1,0 @@
-/home/yas/RiderProjects/HWparal/HWparal/bin/Debug/HWparal.exe
-/home/yas/RiderProjects/HWparal/HWparal/bin/Debug/HWparal.pdb
-/home/yas/RiderProjects/HWparal/HWparal/obj/Debug/HWparal.csprojResolveAssemblyReference.cache
-/home/yas/RiderProjects/HWparal/HWparal/obj/Debug/HWparal.csproj.CoreCompileInputs.cache
-/home/yas/RiderProjects/HWparal/HWparal/obj/Debug/HWparal.exe
-/home/yas/RiderProjects/HWparal/HWparal/obj/Debug/HWparal.pdb

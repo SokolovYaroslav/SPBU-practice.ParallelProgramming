@@ -1,6 +1,0 @@
-/home/yas/RiderProjects/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe
-/home/yas/RiderProjects/BinaryTree/BinaryTree/bin/Debug/BinaryTree.pdb
-/home/yas/RiderProjects/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csprojResolveAssemblyReference.cache
-/home/yas/RiderProjects/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csproj.CoreCompileInputs.cache
-/home/yas/RiderProjects/BinaryTree/BinaryTree/obj/Debug/BinaryTree.exe
-/home/yas/RiderProjects/BinaryTree/BinaryTree/obj/Debug/BinaryTree.pdb
