@@ -54,7 +54,7 @@ namespace HWparal
             }
         }
         
-        public static string StringMD5Hash(string input)
+        private static string StringMD5Hash(string input)
         {
             StringBuilder hash = new StringBuilder();
             MD5CryptoServiceProvider md5provider = new MD5CryptoServiceProvider();

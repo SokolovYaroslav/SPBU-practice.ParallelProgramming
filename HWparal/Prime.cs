@@ -11,7 +11,7 @@ namespace HWparal
     {
         private static int maxThreadsAmount = 4;
 
-        public static bool CheckResult() {
+        private static bool CheckResult() {
             List<int> truePrimes = PrimesInRangeThread(0, 10000);
             List<int> threadPrimes = PrimesInRangeThread(0, 10000);
             List<int> taskPrimes = PrimesInRangeTask(0, 10000);
