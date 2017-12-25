@@ -1,0 +1,6 @@
+/home/yas/RiderProjects/HTMLParser/HTMLParser/bin/Release/HTMLParser.exe
+/home/yas/RiderProjects/HTMLParser/HTMLParser/bin/Release/HTMLParser.pdb
+/home/yas/RiderProjects/HTMLParser/HTMLParser/obj/Release/HTMLParser.csprojResolveAssemblyReference.cache
+/home/yas/RiderProjects/HTMLParser/HTMLParser/obj/Release/HTMLParser.csproj.CoreCompileInputs.cache
+/home/yas/RiderProjects/HTMLParser/HTMLParser/obj/Release/HTMLParser.exe
+/home/yas/RiderProjects/HTMLParser/HTMLParser/obj/Release/HTMLParser.pdb
